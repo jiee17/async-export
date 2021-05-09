@@ -1,0 +1,17 @@
+{
+    "name": "jiee17/async-export",
+    "description": "异步导出",
+    "license": "0.0.1",
+    "authors": [
+        {
+            "name": "jiee17",
+            "email": "jiee17@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AsyncExport\\": "src/"
+        }
+    }
+}
